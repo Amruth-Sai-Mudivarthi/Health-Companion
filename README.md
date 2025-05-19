@@ -1,3 +1,5 @@
+![Health Companion Banner](assets/banner.png)
+
 # Health Companion Pro
 
 <div align="center">
@@ -38,7 +40,6 @@
 | Machine Learning | TensorFlow/Keras |
 | NLP Processing | Custom symptom extraction |
 | Data Storage   | Session state |
-
 
 ## 🚀 How to use?
 
