@@ -10,17 +10,6 @@
   An AI-powered health companion combining symptom analysis with interactive fitness tracking
 </div>
 
-## Table of Contents
-- [Features](#-features)
-- [Tech Stack](#-tech-stack)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Project Structure](#-project-structure)
-- [Screenshots](#-screenshots)
-- [License](#-license)
-- [Contributing](#-contributing)
-- [Contact](#-contact)
-
 ## ✨ Features
 
 ### 🔍 AI Symptom Checker
@@ -50,9 +39,20 @@
 | NLP Processing | Custom symptom extraction |
 | Data Storage   | Session state |
 
-## 💻 Installation
 
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/health-companion-pro.git
-cd health-companion-pro
+## 🚀 How to use?
+
+### 🩺 Symptom Checker
+- Describe symptoms in natural language
+- View predicted conditions with confidence scores
+- Analyze symptom importance
+
+### 🏃 Fitness Tracker
+- Log daily habits
+- Receive health score
+- Get improvement suggestions
+
+### 🧠 Health Quiz
+- Answer medical knowledge questions
+- Review correct answers
+- Track learning progress
