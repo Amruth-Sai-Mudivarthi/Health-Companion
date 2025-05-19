@@ -1,5 +1,7 @@
 ![Health Companion Banner](assets/banner.png)
 
+- Model is live -> https://huggingface.co/spaces/amruthsai/health-companion-symptom-checker
+
 # Health Companion - Symptom Checker and Fitness Tracker
 
 <div align="center">
