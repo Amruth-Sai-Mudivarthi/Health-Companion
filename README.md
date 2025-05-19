@@ -1,6 +1,6 @@
 ![Health Companion Banner](assets/banner.png)
 
-# Health Companion
+# Health Companion - Symptom Checker and Fitness Tracker
 
 <div align="center">
   <img src="assets/app-demo.gif" alt="App Demo" width="600">
